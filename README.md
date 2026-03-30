@@ -1,3 +1,4 @@
+一个基于fastapi简单的ai案件生成交互前端
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
